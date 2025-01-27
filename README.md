@@ -1,10 +1,7 @@
-# CSE-6214
-A e-commerce web application with the minimum function of allowing:
--Users with different roles to log in and out of the platfrom. 
--Buyers to research, compare, buy, and return different types of products from sellers
--Sellers to add, sell, and recieve payment for their available products.
--Admin to approve/block new user accounts and products and over see the actions of the other users.
+# CSE-6214: E-Commerece Platform
+A e-commerce web application with the minimum function of allowing three different types of users to log in and out of the platform and perform their user type based actions. Each type of user (Buyer, Seller, or Admin) has different rights to access certain functionalities. Buyers have the ability to search, compare, buy, and return products from different selllers. Selllers have the ability to add, sell, and recieve payments for the products they have avaliable. Admins are able to approve/block new users accounts and products. Additionally, Admins can over see the actions of different users. 
 
-Team Members
+
+## Team Members
 Mariah Tam
-tammariah
+@tammariah
