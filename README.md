@@ -4,5 +4,4 @@ A e-commerce web application with the minimum function of allowing three differe
 
 
 ## Team Members
-Mariah Tam
-@tammariah
+Mariah Tam - mlt605 - tammariah - mariah@rc-flite.com - role
