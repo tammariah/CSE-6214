@@ -18,6 +18,7 @@ A e-commerce web application with the minimum function of allowing three differe
 * Login/Logout: username and password
 * Email used to setup user name and passeord
 
+
 ### 2. Buyer/Buying Controls
 #### 2.1 Search Products
 * Products can be searched by:
@@ -73,8 +74,18 @@ A e-commerce web application with the minimum function of allowing three differe
 * Seller will have access to refund requests and can accept the requests
 * Payment technology TBD
 
-### 3.4 Admin Controls
-   
+
+### 4. Admin Controls
+#### 4.1 Oversee Users
+* Admins can see when new user accounts are created
+* Admins approve or decline new account creation
+* Admins can the actions of all buyers and sellers
+* Admins can restrict the actions of buyers and sellers
+#### 4.2 Oversee Products
+* Admins can see when new products are added
+* Admins can approve or decline products
+
+
 
 ## Languages and Techniques
 
