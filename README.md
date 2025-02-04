@@ -18,10 +18,44 @@ A e-commerce web application with the minimum function of allowing three differe
 * Login/Logout: username and password
 * Email used to setup user name and passeord
 
-### 2.2 Buyer Controls
-#### 2.2.1 
-### 2.3 Seller and Selling Controls
-#### 2.3.1 Listing Products
+### 2.2 Buyer/Buying Controls
+#### 2.2.1 Search Products
+* Products can be searched by:
+    * Name
+    * Categories
+* Products with QTY of 1 or more will appear in search results
+* Products can be further filtered by:
+     * Additional categories
+     * Price
+#### 2.2.2 Compare Products
+* Products can be compared by using the "Sort by" tool
+      * Lowest to highesest price
+      * Highest to lowest price
+#### 2.2.3 Buy Products
+* Buyer will need to put the following personal information to buy a product:
+    * Name - Person who item will be shipped to
+    * Street Address
+    * City
+    * State
+    * Country
+    * Zipcode
+    * Contact Email
+    * Contact Phone number
+    * Payment Information
+* Only products with QTY 1 or more can be purchased 
+#### 2.2.4 Return Products
+* Buyer can request a return by entering the follow information:
+     * Buyer name
+     * Product name
+     * Product QTY
+     * Reason
+* Buyer can see updates on return process once the request is submitted
+* Buyer can ship back the product once the seller approves the refund request
+* Buyer will recieve a refund once the seller notifies the system the product was returned
+
+
+### 2.3 Seller/Selling Controls
+#### 2.3.1 List Products
 * To be eligible for a list each product should have the following criteria:
      * Name
      * Description
@@ -35,7 +69,8 @@ A e-commerce web application with the minimum function of allowing three differe
 * Seller will be notified if an item wants to be returned
 #### 2.3.2 Payment and Refunds 
 * Seller will have access to recieving payments
-* Seller will have acces to refund payments 
+* Seller will have access to refund payments
+* Seller will have access to refund requests and can accept the requests
 * Payment technology TBD
 
 ### 2.4 Admin Controls
