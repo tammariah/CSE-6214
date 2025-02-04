@@ -88,7 +88,13 @@ A e-commerce web application with the minimum function of allowing three differe
 
 
 ## Languages and Techniques
+| Development     | Language/Tech.            |
+| --------------- | -------------             |
+| Front End       | HTML, CSS, and JavaScript |
+| Back End        | Django and Python         |
+| Database        | TBD                       |
+| Version Control | GitHub                    |
 
 
-## Team Members
+## Team Members 
 Mariah Tam - mlt605 - tammariah - mariah@rc-flite.com - role
