@@ -6,10 +6,10 @@ A e-commerce web application with the minimum function of allowing three differe
 ## 1. Objective
 
 ## 2. Features
-### 2.1 User Control
+### 2.1 General User Control
 #### 2.1.1 Roles
 * Buyer- search, compare, return, and buy products
-* Seller- add, sell, and recieve payments for avaliable products
+* Seller- sell, and recieve payments for avaliable products
 * Admin- approve/block new user accounts and products, oversee buyer and seller actions
 #### 2.1.2 New Profile
 * New users can create a profile
@@ -18,6 +18,16 @@ A e-commerce web application with the minimum function of allowing three differe
 * Login/Logout: username and password
 * Email used to setup user name and passeord
 
+### 2.2 Buyer Controls
+#### 2.2.1 
+### 2.3 Seller Controls
+#### 2.3.1 Listing Products
+* To be eligible for a list each product should have the following criteria:
+* * name, description, price, quanitiy, picture, and at least one category
+* Product information will be stored in a database
+  
+
+### 2.4 Admin Controls
    
 
 ## 3. Languages and Techniques
