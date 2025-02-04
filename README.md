@@ -4,7 +4,7 @@ A e-commerce web application with the minimum function of allowing three differe
 
 
 ## Objective
-
+To develop a e-commerce platform within four sprints using agile principles. The platform should contain the features below and additional features requested by the customer at the end of the project.
 ## Features
 ### 1. General User Control
 #### 1.1 Roles
