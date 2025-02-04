@@ -23,7 +23,7 @@ A e-commerce web application with the minimum function of allowing three differe
 ### 2.3 Seller Controls
 #### 2.3.1 Listing Products
 * To be eligible for a list each product should have the following criteria:
-* * name, description, price, quanitiy, picture, and at least one category
+     * name, description, price, quanitiy, picture, and at least one category
 * Product information will be stored in a database
   
 
