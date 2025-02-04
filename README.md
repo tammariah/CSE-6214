@@ -35,13 +35,8 @@ A e-commerce web application with the minimum function of allowing three differe
 #### 2.3 Buy Products
 * Buyer will need to put the following personal information to buy a product:
     * Name - Person who item will be shipped to
-    * Street Address
-    * City
-    * State
-    * Country
-    * Zipcode
-    * Contact Email
-    * Contact Phone number
+    * Street Address, City, State, Country, and Zipcode
+    * Contact Email and Phone number
     * Payment Information
 * Only products with QTY 1 or more can be purchased 
 #### 2.4 Return Products
