@@ -8,16 +8,20 @@ A e-commerce web application with the minimum function of allowing three differe
 ## 2. Features
 ### 2.1 User Control
 #### 2.1.1 Roles
-* Buyer
-* Seller
-* Admin
+* Buyer- search, compare, return, and buy products
+* Seller- add, sell, and recieve payments for avaliable products
+* Admin- approve/block new user accounts and products, oversee buyer and seller actions
 #### 2.1.2 New Profile
 * New users can create a profile
 * Set their role
 #### 2.1.3 Authentication
+* Login/Logout: username and password
+* Email used to setup user name and passeord
 
    
 
-## Languages and Techniques
+## 3. Languages and Techniques
+
+
 ## Team Members
 Mariah Tam - mlt605 - tammariah - mariah@rc-flite.com - role
