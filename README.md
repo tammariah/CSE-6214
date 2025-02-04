@@ -87,7 +87,7 @@ A e-commerce web application with the minimum function of allowing three differe
 | --------------- | -------------             |
 | Front End       | HTML, CSS, and JavaScript |
 | Back End        | Django and Python         |
-| Database        | TBD                       |
+| Database        | PostgreSQL                |
 | Version Control | GitHub                    |
 
 
