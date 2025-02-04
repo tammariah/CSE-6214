@@ -6,7 +6,7 @@ A e-commerce web application with the minimum function of allowing three differe
 ## 1. Objective
 
 ## 2. Features
-### 2.1 General User Control
+## 2.1 General User Control
 #### 2.1.1 Roles
 * Buyer- search, compare, return, and buy products
 * Seller- sell, and recieve payments for avaliable products
