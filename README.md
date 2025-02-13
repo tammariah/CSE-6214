@@ -87,7 +87,7 @@ To develop a e-commerce platform within four sprints using agile principles. The
 | --------------- | -------------             |
 | Front End       | HTML and CSS              |
 | Back End        | Django and Python         |
-| Database        | PostgreSQL                |
+| Database        | PostgreSQL or SQLite (TBD)|
 | Version Control | GitHub                    |
 
 
