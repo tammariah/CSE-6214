@@ -1,2 +1,8 @@
-Scenerio-based Diagram 
-Use Case Diagram.png
+Whole System Diagrams 
+(1) Scenerio-based Diagram 
+    - Use Case Diagram.png
+
+Login Use Case Diagrams
+(1) Functional-based Diagram
+    - Sequence Diagram- Login Use Case.png
+
