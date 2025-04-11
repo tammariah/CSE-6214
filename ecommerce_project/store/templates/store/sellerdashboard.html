@@ -1,0 +1,92 @@
+<h3>Seller Dashboard</h3><!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Seller Store - Bootstrap</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"> <!-- Font Awesome -->
+</head>
+<body>
+
+  <header class="bg-light py-3">
+    <div class="container">
+      <h1>Example E-commerce</h1>
+    </div>
+  </header>
+
+  <main class="container mt-4">
+    <div class="row">
+
+      <div class="col-md-4">
+        <div class="card">
+          <img src="seller-profile.jpg" class="card-img-top" alt="Seller Profile">
+          <div class="card-body">
+            <h2 class="card-title">Awesome Gadgets Store</h2>
+            <p class="card-text">Located in San Francisco, CA</p>
+            <p class="card-text"><i class="fas fa-star"></i> 4.5 (123 reviews)</p>
+            <button class="btn btn-primary">Follow</button>
+            <button class="btn btn-secondary">Contact Seller</button>
+            <p class="card-text">We specialize in unique and innovative gadgets for tech enthusiasts.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-md-4">
+        <div class="card">
+          <div class="card-header">
+            <h3>Filters</h3>
+          </div>
+          <div class="card-body">
+            <div class="form-check">
+              <input class="form-check-input" type="checkbox" id="category1">
+              <label class="form-check-label" for="category1">Category 1</label>
+            </div>
+            <div class="form-check">
+              <input class="form-check-input" type="checkbox" id="category2">
+              <label class="form-check-label" for="category2">Category 2</label>
+            </div>
+            <div class="mb-3">
+              <label for="priceRange" class="form-label">Price Range:</label>
+              <input type="range" class="form-range" id="priceRange" min="0" max="100" value="50">
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-md-4">
+        <h2>Products</h2>
+        <div class="row">
+          <div class="col-md-6">
+            <div class="card">
+              <img src="product1.jpg" class="card-img-top" alt="Product 1">
+              <div class="card-body">
+                <h5 class="card-title">Product Name 1</h5>
+                <p class="card-text">$29.99</p>
+                <button class="btn btn-primary">Add to Cart</button>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-6">
+            <div class="card">
+              <img src="product2.jpg" class="card-img-top" alt="Product 2">
+              <div class="card-body">
+                <h5 class="card-title">Product Name 2</h5>
+                <p class="card-text">$49.99</p>
+                <button class="btn btn-primary">Add to Cart</button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </main>
+
+  <footer class="bg-light py-3 text-center">
+    <p>&copy; 2024 Example E-commerce</p>
+  </footer>
+
+</body>
+</html>
